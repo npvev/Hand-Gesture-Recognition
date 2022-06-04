@@ -106,11 +106,11 @@ If necessary, add 3 or later, or delete the existing data of csv to prepare the 
 <img src="https://user-images.githubusercontent.com/37477845/102348846-d0519400-3fe5-11eb-8789-2e7daec65751.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348855-d2b3ee00-3fe5-11eb-9c6d-b8924092a6d8.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
 
 #### 2.Model training
-Open "[keypoint_classification.ipynb](keypoint_classification.ipynb)" in Jupyter Notebook and execute from top to bottom.<br>
+Open "[keypoint_classification.ipynb](keypoint_classification_EN.ipynb)" in Jupyter Notebook and execute from top to bottom.<br>
 To change the number of training data classes, change the value of "NUM_CLASSES = 3" <br>and modify the label of "model/keypoint_classifier/keypoint_classifier_label.csv" as appropriate.<br><br>
 
 #### X.Model structure
-The image of the model prepared in "[keypoint_classification.ipynb](keypoint_classification.ipynb)" is as follows.
+The image of the model prepared in "[keypoint_classification.ipynb](keypoint_classification_EN.ipynb)" is as follows.
 <img src="https://user-images.githubusercontent.com/37477845/102246723-69c76a00-3f42-11eb-8a4b-7c6b032b7e71.png" width="50%"><br><br>
 
 ### Finger gesture recognition training
